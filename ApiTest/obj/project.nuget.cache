@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+G6eGHX9mJEUViZlpTL2YG8kcUFZ+xQArBvZ9Wpxj58XKQqxAIIQE/DweWNt0GADRK+45NRkUU67/zydqF6vdw==",
+  "success": true,
+  "projectFilePath": "C:\\Test\\LinqTest\\ApiTest\\ApiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\96190\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

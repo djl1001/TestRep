@@ -1,0 +1,15 @@
+C:\Test\LinqTest\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.exe
+C:\Test\LinqTest\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.deps.json
+C:\Test\LinqTest\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.runtimeconfig.json
+C:\Test\LinqTest\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.runtimeconfig.dev.json
+C:\Test\LinqTest\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.dll
+C:\Test\LinqTest\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.pdb
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.csprojAssemblyReference.cache
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.AssemblyInfoInputs.cache
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.AssemblyInfo.cs
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.dll
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.pdb
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.genruntimeconfig.cache
+C:\Test\LinqTest\LinqTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.csproj.CoreCompileInputs.cache
+C:\Test\LinqTest\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.csproj.CopyComplete

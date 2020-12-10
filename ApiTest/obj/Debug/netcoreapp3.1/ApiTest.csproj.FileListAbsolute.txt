@@ -1,0 +1,15 @@
+C:\Test\LinqTest\ApiTest\bin\Debug\netcoreapp3.1\ApiTest.exe
+C:\Test\LinqTest\ApiTest\bin\Debug\netcoreapp3.1\ApiTest.deps.json
+C:\Test\LinqTest\ApiTest\bin\Debug\netcoreapp3.1\ApiTest.runtimeconfig.json
+C:\Test\LinqTest\ApiTest\bin\Debug\netcoreapp3.1\ApiTest.runtimeconfig.dev.json
+C:\Test\LinqTest\ApiTest\bin\Debug\netcoreapp3.1\ApiTest.dll
+C:\Test\LinqTest\ApiTest\bin\Debug\netcoreapp3.1\ApiTest.pdb
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.csprojAssemblyReference.cache
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.AssemblyInfoInputs.cache
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.AssemblyInfo.cs
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.dll
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.pdb
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.genruntimeconfig.cache
+C:\Test\LinqTest\ApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.csproj.CoreCompileInputs.cache
+C:\Test\LinqTest\ApiTest\obj\Debug\netcoreapp3.1\ApiTest.csproj.CopyComplete

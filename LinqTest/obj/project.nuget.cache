@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqpemk94J+rBUYt2O9Ed79ureYucHMH7BinltbG8N3V+pF6tj7RNVA335pkZHwTeo+r6yGxe8YzRMRUrTc3ryA==",
+  "success": true,
+  "projectFilePath": "C:\\Test\\LinqTest\\LinqTest\\LinqTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\96190\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

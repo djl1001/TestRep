@@ -1,0 +1,13 @@
+C:\Test\LinqTest\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Test\LinqTest\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Test\LinqTest\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Test\LinqTest\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Test\LinqTest\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Test\LinqTest\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Test\LinqTest\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Test\LinqTest\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Test\LinqTest\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Test\LinqTest\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Test\LinqTest\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Test\LinqTest\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Test\LinqTest\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
